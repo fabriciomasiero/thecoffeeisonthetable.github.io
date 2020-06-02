@@ -155,7 +155,7 @@ a.red {
 	border: 0.125rem solid var(--green);
 	border-radius: 2rem;
 	background-color: var(--green);
-	color: #fff;
+	color: var(--background);
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
